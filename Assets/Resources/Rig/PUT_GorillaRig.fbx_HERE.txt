@@ -1,0 +1,2 @@
+Export Gorilla_IK_Rig.blend from Blender as FBX and save it here as:  GorillaRig.fbx
+(see README.md, "Gorilla rig"). Unity Cloud build machines do not have Blender, so a raw .blend cannot be imported there.
